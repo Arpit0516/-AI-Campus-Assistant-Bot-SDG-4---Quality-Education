@@ -23,6 +23,8 @@ Rule-based-AI
 ## 🔄 Flowchart
 
 <img width="325" height="214" alt="image" src="https://github.com/user-attachments/assets/fe45b473-9347-4ebd-9e74-fdc3be80d7a5" />
+
+
 ## Output 
 
 <img width="635" height="293" alt="image" src="https://github.com/user-attachments/assets/c0f0bf03-ee98-466c-b428-9cb075a4d4aa" />
